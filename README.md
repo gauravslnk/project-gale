@@ -84,7 +84,7 @@ g++ -std=c++20 -Iinclude src/*.cpp main.cpp -o project-gale.exe
 
 ### 🧭 Main Menu
 
-![Main Menu](screenshots/main_menu.jpg)
+![Main Menu](screenshots/main-menu.jpg)
 
 ### ✍️ Applicant Entry
 
@@ -92,7 +92,7 @@ g++ -std=c++20 -Iinclude src/*.cpp main.cpp -o project-gale.exe
 
 ### 🔁 Matching System
 
-![Matching System](screenshots/matching_system.jpg)
+![Matching System](screenshots/matching-system.jpg)
 
 ---
 
