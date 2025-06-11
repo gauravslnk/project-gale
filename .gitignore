@@ -1,0 +1,15 @@
+# C++ build files
+*.o
+*.out
+*.exe
+build/
+bin/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
